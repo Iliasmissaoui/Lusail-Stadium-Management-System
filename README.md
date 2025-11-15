@@ -3,7 +3,7 @@ Overview
 
 This project is a full system analysis and design for a modern, automated stadium monitoring system inspired by Lusail Stadium in Qatar. It includes requirement gathering, system modelling, database prototyping, and ethical/legal analysis following software engineering industry standards.
 
-Key Features
+Key Features:
 
 Requirements engineering (functional + non-functional)
 
@@ -21,7 +21,7 @@ SQL schema planning
 
 Risk management, system evaluation, and stakeholder analysis
 
-Skills Demonstrated
+Skills Demonstrated:
 
 Software engineering methodology (Scrum vs V-Model)
 
